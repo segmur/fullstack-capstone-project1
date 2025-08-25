@@ -1,3 +1,4 @@
+/*jshint esversion: 8 */
 // This file has been refined to use modern ES6 and ES8 JavaScript syntax.
 
 import express from 'express';
